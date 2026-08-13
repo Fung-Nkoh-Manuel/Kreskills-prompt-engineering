@@ -10,7 +10,7 @@ export type StatItem = {
 
 export const leftStats: StatItem[] = [
   { icon: Users, eyebrow: "Only", big: "15", label: "Seats Available" },
-  { icon: CalendarDays, big: "2-Week", label: "Live Training" },
+  { icon: CalendarDays, big: "2-Weeks", label: "Live Training" },
 ];
 
 export const rightStats: StatItem[] = [

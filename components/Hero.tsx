@@ -20,7 +20,7 @@ export default function Hero() {
         className="mt-5 animate-fade-up font-script text-3xl text-white/90 sm:text-4xl"
         style={{ animationDelay: "220ms" }}
       >
-        Learn to Talk to AI Like a Pro
+        Learn how to build structured inputs that guide AI safely and accurately.
       </p>
 
       <div className="mt-12 grid grid-cols-1 items-center gap-10 sm:grid-cols-[1fr_auto_1fr] sm:gap-4">
