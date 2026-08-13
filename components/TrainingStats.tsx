@@ -35,7 +35,7 @@ export default function TrainingStats({
               <p className="text-3xl font-extrabold leading-tight text-cyan sm:text-4xl">
                 {stat.big}
                 {stat.suffix && (
-                  <span className="ml-1 text-lg font-bold text-white sm:text-xl">
+                  <span className="block text-lg font-bold text-white sm:ml-1 sm:inline sm:text-xl">
                     {stat.suffix}
                   </span>
                 )}
